@@ -1,0 +1,12 @@
+#main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#main > *{
+    margin:5px;
+}
+h1{
+    text-align: center;
+    color:white;
+}
